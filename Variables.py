@@ -1,4 +1,3 @@
-#variables
 name = input ("what is your name ? ")
 print (name)
 print ("number of letter in the name are : " , len(name))
